@@ -1,5 +1,5 @@
-# # Hi there! 👋 I'm Rashmika
-I'm a passionate software engineering student at Sri Lanka Institute of Information Technology<br>with a keen interest in Full Stack development and UI/UX designing.
+# Hi there! 👋 I'm Rashmika
+### I'm a passionate software engineering student at Sri Lanka Institute of Information Technology<br>with a keen interest in Full Stack development and UI/UX designing.
 
 
 ## 🌐 Socials:
@@ -14,6 +14,3 @@ I'm a passionate software engineering student at Sri Lanka Institute of Informat
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Rashmika-Jayarathna&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=Rashmika-Jayarathna&icon=0&color=0)](https://visitcount.itsvg.in)
