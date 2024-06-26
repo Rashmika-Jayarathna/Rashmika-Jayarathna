@@ -1,4 +1,7 @@
-# Hi there! 👋 I'm Rashmika
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Rashmika;" />
+</h1>
 ### I'm a passionate software engineering student at Sri Lanka Institute of Information Technology<br>with a keen interest in Full Stack development and UI/UX designing.
 
 
