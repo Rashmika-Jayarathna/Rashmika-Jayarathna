@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there! 👋 I'm Rashmika
 
-<!--
-**Rashmika-Jayarathna/Rashmika-Jayarathna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate software engineering student at Sri Lanka Institute of Information Technology, with a keen interest in Full Stack development and UI/UX designing.
 
-Here are some ideas to get you started:
+## 🔧 Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages:** JavaScript, HTML/CSS, Python, Java, Kotlin, C/C++, PHP, SQL, R
+- **Frameworks/Libraries:** React.js, Node.js, Express.js, MongoDB
+- **Tools:** Git/GitHub, Trello, Eclipse, Android Studio, Visual Studio, VS Code, Figma, Photoshop, Office 365 
+- **Other:** UI/UX Design, Responsive Web Design
+
+## 🚀 Projects
+
+### Website for a Cloud kitchen
+
+### To Do App
+
+### Social Media Website
+
+## 📫 Get in Touch
+
+- LinkedIn: [Rashmika Jayarathna](www.linkedin.com/in/rashmika-jayarathna)
+- Email: rashmikajayarathna@gmail.com
+
+
+Happy coding! ✨
+
