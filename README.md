@@ -25,5 +25,5 @@ I'm a passionate software engineering student at Sri Lanka Institute of Informat
 
 Happy coding! ✨
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rashmika-Jayarathna)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rashmika-Jayarathna&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
